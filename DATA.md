@@ -2,7 +2,7 @@
 
 For demonstration, we provide samples from two different datasets: 
 
-## 1) imaging mass cytometry (IMC) breast cancer (BC) samples
+## 1) imaging mass cytometry (IMC) breast cancer (BC) tissue samples
 Full data is avilable online at Zenodo: https://doi.org/10.5281/zenodo.3518284
 
 Here, we provide a subsample of this dataset which includes 5 random patient samples: [IMC BC mini data](data_share/BC_IMC_data_mini.csv)
