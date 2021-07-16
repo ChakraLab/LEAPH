@@ -3,7 +3,7 @@ This document accompanies the higher-level descriptions in the [README](README.m
 
 LEAPH builds a tree hierarchy of cell types and cell states, which we refer to as functional phenotypes (FP), on a continuum using recursive probabilistic clustering 
 and spatial regulareization steps. LEAPH learns the FPs with no ground truth or tagged data, hence our use of the word unsupervised. However, the number of cell clusters 
-derived byLEAPH is tied to a sall set of free parameters detailed below. 
+derived byLEAPH is tied to a small set of free parameters detailed below. 
 
 Algorithmic details can be found in the Methods section of Furman, S.A., et al, 2021. 
 
