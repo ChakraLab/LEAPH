@@ -1,5 +1,7 @@
 # Available data
 
+For demonstration, we provide samples from two different datasets: 
+
 ## 1) imaging mass cytometry (IMC) breast cancer (BC) data
 Full data is avilable online at Zenodo: https://doi.org/10.5281/zenodo.3518284
 
