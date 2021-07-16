@@ -1,9 +1,9 @@
 # Setting up LEAPH
-This document tells you how to set up and use the MATLAB LEAPH application. 
+This document tells you how to set up and use LEAPH application. 
 
 ## Prerequisites
 For this version of LEAPH, installation of MATLAB is required (preferbly MATLAB 2020b).
-Future versions will be available without a MATLAB installation.
+Future versions will provide a pre-compiled standalone LEAPH that does not require a MATLAB installation.
 
 ## Data set up
 The csv file containing the dataset must include the following columns:
