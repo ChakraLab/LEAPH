@@ -24,5 +24,7 @@ The csv file containing the dataset must include the following columns:
 1. Download [LEAPH](LEAPH.mlappinstall)
 2. Double click LEAPH app installer in downloads folder
 3. A pop-up MATLAB window will appear, click "install"!
-   [setup_install_leaph](https://user-images.githubusercontent.com/87207958/125973101-d5753094-af0a-4184-ab82-5177ec9c8e82.PNG)
+4. In MATLAB, the LEAPH icon will appear under the "APPS" tab
+
+
 
