@@ -18,7 +18,7 @@ The csv file containing the dataset must include the following columns:
 | --- | --- | --- | --- | ---|
 | 15 | 61.43 | 4.03 | 0.04 | 0.32 |
 
-**Available data:** we have provided a subsample of IMC breast cancer and HxIF colorectal carcinoma data set in [data_share](data_share/)
+**Available data:** we have provided a subsample of IMC breast cancer and HxIF colorectal carcinoma data set in [data_share](data_share/). See [DATA](DATA.md) for details.
 
 ## Install LEAPH MATLAB application
 1. Download [LEAPH](LEAPH.mlappinstall)
