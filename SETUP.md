@@ -27,15 +27,15 @@ The csv file containing the dataset must include the following columns:
 4. In MATLAB, the LEAPH icon will appear under the "APPS" tab
 
 ## Try it out
-1. Start the LEAPH application in MATLAB (double click LEAPH icon under APPS tab
+1. Start the LEAPH application in MATLAB (double click LEAPH icon under APPS tab)
 2. **Parameters**
    - Click *Upload data* button and select csv file containing your data
-   - Set your desired parameters (see References) and click *set parameters* button
+   - Set your desired parameters (see [REFERENCES](REFERENCE.md) for detailed explanation) and click *set parameters* button
    - Click *set save location* and select a directory to save the results
 3. **LEAPH**
    - Click *run LEAPH* button 
    - Updates will appear in the Progress box.
-   - When LEAPH is done, the last line in the Progress box will read ""
+   - When LEAPH is done, the last line in the Progress box will read "LEAPH done in **X** minutes"
 4. **Analyze**
    - Click *Show FP fractions* button to show the fraction of cells in each functional phenotype (FP)
    - Click *Show an example* button to display the (x,y) locations of a randomly chosen sample where each cell is colored by their corresponding FP (shown in fractions plot)
