@@ -22,13 +22,6 @@ Here, we provide a subsample of this dataset which includes 5 random patient sam
 
 **Pre-processing:** Details can be found in the Methods section of Furman et al., 2021.
 
-# Installation 
-**Requirements:** Current version of LEAPH requires MATLAB installation.
-
-Future versions of LEAPH will be available with and without MATLAB installation.
-
-# Tutorial 
-
 # References 
 Furman, S.A., et al., 2021. In situ functional cell phenotyping reveals microdomain networks in colorectal cancer recurrence.
 
