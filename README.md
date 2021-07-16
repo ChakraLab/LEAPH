@@ -8,18 +8,17 @@ We present **LEAPH**, an unsupervised machine **le**arning **a**lgorithm for ide
 
 # Available data
 
-## Dataset 1: imaging mass cytometry (IMC) breast cancer (BC) data
+## 1) imaging mass cytometry (IMC) breast cancer (BC) data
 Full data is avilable online at Zenodo: https://doi.org/10.5281/zenodo.3518284
 
-Here, we provide a subsample of this dataset which includes 5 random patient samples: BC_IMC_data_mini.csv
+Here, we provide a subsample of this dataset which includes 5 random patient samples: [IMC BC mini data](data_share/BC_IMC_data_mini.csv)
 
 **Pre-processing:** As suggested (Jackson et al., 2020), we censor and normalize the data at the 99th percentile to remove outliers. 
 
-## Dataset 2: hyperplexed immunofluroescence (HxIF) image data of colorectal carcinoma (CRC) primary tumor tissue samples
+## 2) hyperplexed immunofluroescence (HxIF) image data of colorectal carcinoma (CRC) primary tumor tissue samples
 Full data can be obtained by request from the authors of this published work (Gerdes et al., 2013).
 
 Here, we provide a subsample of this dataset which includes 5 random patient samples: [HxIF CRC mini data](data_share/HxIF_CRC_data_mini.csv)
-HxIF_CRC_data_mini.csv
 
 **Pre-processing:** Details can be found in the Methods section of Furman et al., 2021.
 
