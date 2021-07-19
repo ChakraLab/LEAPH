@@ -8,6 +8,8 @@ The LEAPH approach is unbiased and automated, using spatial analytics with recur
 to characterize functional phenotypes (FPs) on a continuum from hyperplexed datasets. **The traditional approaches to cell phenotyping focus on each cell type alone. In comparison, the functional cell phenotyping approach presented here focuses on discovering data-driven cell phenotypes and their spatial interactions, and associating the cell phenotype interactions with clinical outcomes. Functional cell phenotyping infers particular functional outcomes generating testable hypotheses thus moving well beyond simple cell phenotyping and distinguishable from typical cell phenotyping.**
 LEAPH further enables discovery of microdomains and signaling networks associated with and potentially driving disease progression and outcome.
 
+# Questions
+Please send inquiries to [Samantha Furman](saf112@pitt.edu) and [S. Chakra Chennubhotla](chakra@spintellx.com).
 
 # References 
 Furman, S.A., et al., 2021. In situ functional cell phenotyping reveals microdomain networks in colorectal cancer recurrence.
