@@ -9,7 +9,7 @@ to characterize functional phenotypes (FPs) on a continuum from hyperplexed data
 LEAPH further enables discovery of microdomains and signaling networks associated with and potentially driving disease progression and outcome.
 
 # Questions
-Please send inquiries to [Samantha Furman](saf112@pitt.edu) and [S. Chakra Chennubhotla](chakra@spintellx.com).
+Please send inquiries to [Samantha Furman](mailto:saf112@pitt.edu) and [S. Chakra Chennubhotla](mailto:chakra@spintellx.com).
 
 # References 
 Furman, S.A., et al., 2021. In situ functional cell phenotyping reveals microdomain networks in colorectal cancer recurrence.
